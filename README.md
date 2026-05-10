@@ -23,9 +23,9 @@ Edit the text, links, and image in the `index.html` file with your own content.
 Copy and paste this block, substituting your own values:
 
 ```html
-<a class="main__a" href="https://github.com/yourname" target="\_blank">GitHub</a>
-<a class="main__a" href="https://facebook.com/yourname" target="\_blank">Facebook</a>
-<a class="main__a" href="https://linkedin.com/in/yourname" target="\_blank">LinkedIn</a>
+<a class="main__a" href="https://github.com/yourname" target="_blank">GitHub</a>
+<a class="main__a" href="https://facebook.com/yourname" target="_blank">Facebook</a>
+<a class="main__a" href="https://linkedin.com/in/yourname" target="_blank">LinkedIn</a>
 ```
 
 ### 📜 License
