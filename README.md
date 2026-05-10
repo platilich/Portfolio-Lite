@@ -11,14 +11,6 @@ A simple single-page website for sharing personal links (GitHub, Facebook, etc.)
 
 2. **Open** `index.html` in your browser
 
-## 📁 Project Structure
-
-project/
-├── index.html      # Page markup
-├── style.css       # Styles and responsiveness
-└── image.png       # Background image (optional)
-
-
 
 ## 🛠 Usage
 
@@ -31,10 +23,9 @@ Edit the text, links, and image in the `index.html` file with your own content.
 Copy and paste this block, substituting your own values:
 
 ```html
-<a class="main\_\_a" href="YOUR\_URL" target="\_blank">Link Name</a>
-<a class="main\_\_a" href="https://github.com/yourname" target="\_blank">GitHub</a>
-<a class="main\_\_a" href="https://facebook.com/yourname" target="\_blank">Facebook</a>
-<a class="main\_\_a" href="https://linkedin.com/in/yourname" target="\_blank">LinkedIn</a>
+<a class="main__a" href="https://github.com/yourname" target="\_blank">GitHub</a>
+<a class="main__a" href="https://facebook.com/yourname" target="\_blank">Facebook</a>
+<a class="main__a" href="https://linkedin.com/in/yourname" target="\_blank">LinkedIn</a>
 ```
 
 ### 📜 License
