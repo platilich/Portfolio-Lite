@@ -8,7 +8,7 @@ body {
     
 
 
-    font-family: Arial, monospace;
+    font-family: 'Comic Sans MS';
     
 
     background-color: #f6f2ec;
@@ -38,6 +38,8 @@ main {
 
     
     border-radius: 10px;
+
+    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
 
 
     padding: 1%;
@@ -119,6 +121,10 @@ main {
 
 
     border-radius: 10px;
+
+    &:hover {
+        background: rgba(255, 255, 255, 0.01);
+    }
 
 
 
