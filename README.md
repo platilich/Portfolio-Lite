@@ -1,4 +1,4 @@
-````markdown
+markdown
 # 🌐 Personal Link Website 🔗✨
 
 A super simple, clean, and elegant single-page website to share all your personal links (GitHub, Facebook, LinkedIn, and more) in one stylish place! 📄💼📱
@@ -73,4 +73,4 @@ Want to add more social media? Just copy and paste this code block inside your H
 
 - **💻 Код:** На 100% бесплатен для использования, изменения и распространения. Делай с ним всё, что хочешь! 🎉
 - **🖼️ Изображение:** Фотография в шаблоне используется только для примера. Пожалуйста, не используй её в коммерческих или публичных целях без явного разрешения автора. ⚠️
-````
+
