@@ -1,3 +1,4 @@
+# 🇺🇸 English version
 # 🌐 Personal Link Website 🔗✨
 
 A super simple, clean, and elegant single-page website to share all your personal links (GitHub, Facebook, LinkedIn, and more) in one stylish place! 📄💼📱
@@ -34,10 +35,10 @@ Want to add more social media? Just copy and paste this code block inside your H
 ## 📜 License & Copyright ⚖️🔒
 
 - **💻 Code:** 100% Free to use, modify, and share! Do whatever you want! 🎉
-- **🖼️ Image:** The photo included in the template is an example only. Please do not use it commercially or publicly without explicit permission from the author. ⚠️
-
+- **🖼️ Image:** The avatar in the template is my personal photo. Do not use it without my explicit written permission. ⚠️
 ---
 
+# 🇷🇺 Русская версия 
 # 🌐 Сайт-визитка с личными ссылками 🔗✨
 
 Супер простой, чистый и элегантный одностраничный сайт для размещения всех твоих личных ссылок (GitHub, Facebook, LinkedIn и других) в одном стильном месте! 📄💼📱
@@ -71,5 +72,5 @@ Want to add more social media? Just copy and paste this code block inside your H
 ## 📜 Лицензия и авторские права ⚖️🔒
 
 - **💻 Код:** На 100% бесплатен для использования, изменения и распространения. Делай с ним всё, что хочешь! 🎉
-- **🖼️ Изображение:** Фотография в шаблоне используется только для примера. Пожалуйста, не используй её в коммерческих или публичных целях без явного разрешения автора. ⚠️
+- **🖼️ Изображение:** Аватарка в шаблоне — моя личная фотография. Запрещено использовать без моего явного письменного разрешения. ⚠️
 
