@@ -2,6 +2,11 @@
 
 
 
+* {
+    margin: 0;
+    padding: 0;
+}
+
 body {
     display: flex;
     flex-direction: column;
@@ -12,18 +17,16 @@ body {
     
 
 
-    font-family: 'Comic Sans MS', cursive;
+    font-family: 'Roboto', sans-serif;
     
 
     background-color: #f6f2ec;
     color: white;
 
 
-    height: 99vh;
+    height: 100vh;
 
 
-    margin: 0px;
-    padding: 0px;
 
 }
 
@@ -41,15 +44,17 @@ main {
     background-repeat: no-repeat;
 
     
-    border-radius: 10px;
 
-    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+    box-shadow: 0 4px 10px rgba(0,0,0,0.10);
+
+
+    border-radius: 10px;
 
 
     padding: 1%;
 
 
-    width: 390px;
+    width: 384px;
     height: 600px;
 
 
@@ -108,8 +113,7 @@ main {
 
 
 
-    background: rgba(255, 255, 255, 0.2);
-    backdrop-filter: blur(10px);
+    background-color: white;
     color: black;
 
 
@@ -126,8 +130,11 @@ main {
 
     border-radius: 10px;
 
+
+    transition: 0.5s;
+
     &:hover {
-        background: rgba(255, 255, 255, 0.01);
+        background-color: #f6f2ec;
     }
 
 
@@ -141,23 +148,15 @@ main {
 
 
 @media (max-width: 600px) {
-    body {
-        height: 100vh;
-
-
-
-    }
-
-
     main {
-        width: 100%;
+        width: 98%;
         height: 100%;
 
 
-        margin: 0px;
-        padding: 0px;
 
-        border-radius: 0px;
+
+        border-radius: 0;
+
     }
 
 
@@ -165,7 +164,7 @@ main {
 
 
     .m__header {
-        padding-left: 5%;
+        padding: 3% 0 0 3%;
         
     }
 
