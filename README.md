@@ -1,4 +1,4 @@
-![img.png](icon.png)# 🇺🇸 English version
+🇺🇸 English version
 # 🌐 Personal Link Website 🔗✨
 
 A super simple, clean, and elegant single-page website to share all your personal links (GitHub, Facebook, LinkedIn, and more) in one stylish place! 📄💼📱
