@@ -1,6 +1,7 @@
 # Bento
 ## Minimalist Link-in-Bio Template
 
+![](example.png)
 A clean, lightweight, single-page website to collect all your essential links in one stylish place.
 
 
