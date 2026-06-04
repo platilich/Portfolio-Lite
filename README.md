@@ -1,7 +1,8 @@
-# Bento
-## Minimalist Link-in-Bio Template
-
 ![](example.png)
+
+# Bento
+Minimalist Link-in-Bio Template
+
 A clean, lightweight, single-page website to collect all your essential links in one stylish place.
 
 
@@ -19,8 +20,9 @@ Adding Links
 
 
 ## To add new buttons, copy and paste this structure inside the HTML file:
-HTML
-
+```
 <a class="main__a" href="YOUR_LINK" target="_blank">Platform Name</a>
+```
+
 
 To view the result, simply open index.html in your browser.
