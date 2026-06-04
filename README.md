@@ -1,6 +1,7 @@
 # 🇺🇸 English version
 # 🌐 Personal Link Website 🔗✨
 
+![пример](example.png)
 A super simple, clean, and elegant single-page website to share all your personal links (GitHub, Facebook, LinkedIn, and more) in one stylish place! 📄💼📱
 
 ---
@@ -41,6 +42,7 @@ Want to add more social media? Just copy and paste this code block inside your H
 # 🇷🇺 Русская версия 
 # 🌐 Сайт-визитка с личными ссылками 🔗✨
 
+![пример](example.png)
 Супер простой, чистый и элегантный одностраничный сайт для размещения всех твоих личных ссылок (GitHub, Facebook, LinkedIn и других) в одном стильном месте! 📄💼📱
 
 ---
